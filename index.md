@@ -1,1 +1,1 @@
-title: Welcome to the Hulanxin's homepage!
+Welcome to the Hulanxin's homepage!
